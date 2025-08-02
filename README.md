@@ -46,7 +46,7 @@ A comprehensive RESTful API for cricket match scoring and management built with 
 1. **Clone the repository**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Apurv3027/Cricket-Scoring-Api.git
    cd cricket-scoring-api
    ```
 
